@@ -3,8 +3,16 @@
 This is an example of a simple string-base key-value smart contract and it's usage.
 
 ## Requirements
-```bash
-$ brew install cargo
+#### Install Rust
+```bash 
+$ brew install rust
+```
+
+#### Install IPFS
+```bash 
+$ tar xvfz go-ipfs.tar.gz
+$ cd go-ipfs
+$ ./install.sh
 ```
 
 # Usage
