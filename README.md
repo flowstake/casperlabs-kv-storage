@@ -2,6 +2,11 @@
 
 This is an example of a simple string-base key-value smart contract and it's usage.
 
+## Requirements
+```bash
+$ brew install cargo
+```
+
 # Usage
 
 ## Step 1 - Compile smart contracts.
