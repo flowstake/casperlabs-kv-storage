@@ -15,6 +15,12 @@ $ cd go-ipfs
 $ ./install.sh
 ```
 
+#### Upload Data / Files to IPFS 
+```bash
+$ ipfs add Proof_of_Activity_as_a_Stake.gpx
+$ added QmV65a2mcsNt7V4LDekgAtLaLn8Eptc9L9yKVH2XSYc6Fk Proof_of_Activity_as_a_Stake.gpx
+```
+
 # Usage
 
 ## Step 1 - Compile smart contracts.
